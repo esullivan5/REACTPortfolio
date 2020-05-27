@@ -1,7 +1,7 @@
 body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   background-image: url("./components/assets/images/background-image.png");
-  background-size: contain;
+  background-size: cover;
   padding: 130px;
 }
 

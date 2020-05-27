@@ -48,7 +48,7 @@ function Navbar() {
       </a>
       <a
         className="flex-sm-fill text-sm-center nav-link"
-        href="https://www.linkedin.com/"
+        href="https://www.linkedin.com/in/liz-sullivan-2878841a8/"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -58,18 +58,6 @@ function Navbar() {
           height="24"
           width="29"
           className="linkedin"
-        />
-      </a>
-      <a
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <img
-          src={require("../assets/images/resume.jpg")}
-          alt="resume"
-          height="28"
-          width="28"
-          className="resume"
         />
       </a>
     </nav>
