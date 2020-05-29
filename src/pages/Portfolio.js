@@ -38,7 +38,27 @@ function Portfolio() {
                 linkURL="https://esullivan5.github.io/CodeQuiz/"
               />
             </Row>
-            
+            <Row>
+              <Project
+                name="Lyric.Me"
+                imgPath={require("../components/assets/images/weatherapp.jpg")}
+                linkURL="https://sk2060sk2060.github.io/group-project-1/"
+              />
+            </Row> 
+            <Row>
+              <Project
+                name="STOCK-er"
+                imgPath={require("../components/assets/images/weatherapp.jpg")}
+                linkURL="https://alexngn2.github.io/class-porject-2//"
+              />
+            </Row>
+            <Row>
+              <Project
+                name="Be Green"
+                imgPath={require("../components/assets/images/weatherapp.jpg")}
+                linkURL="#"
+              />
+            </Row>
           </div>
         </Row>
       </section>

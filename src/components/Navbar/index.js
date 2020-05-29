@@ -60,6 +60,20 @@ function Navbar() {
           className="linkedin"
         />
       </a>
+      <a
+        className="flex-sm-fill text-sm-center nav-link"
+        href="https://docs.google.com/document/d/1vxj8y6ogcKAD-6HxD3WmxK8NflYN683ncQoxJ5at-Ag/edit?usp=sharing"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          src={require("../assets/images/resume.jpg")}
+          alt="resume"
+          height="28"
+          width="28"
+          className="resume"
+        />
+      </a>
     </nav>
   );
 }
