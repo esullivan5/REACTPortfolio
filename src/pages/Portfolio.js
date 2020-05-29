@@ -13,14 +13,14 @@ function Portfolio() {
             <Row>
               <Project
                 name="Day Scheduler App"
-                imgPath={require("../components/assets/images/Password-generator.png")}
+                imgPath={require("../components/assets/images/DayPlanner.png")}
                 linkURL="https://esullivan5.github.io/DayScheduler/"
               />
             </Row>
             <Row>
               <Project
                 name="Note Taker App"
-                imgPath={require("../components/assets/images/weatherapp.jpg")}
+                imgPath={require("../components/assets/images/note-taker.png")}
                 linkURL="https://hellofishyareyousleeping.herokuapp.com"
               />
             </Row>
