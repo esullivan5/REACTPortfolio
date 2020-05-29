@@ -1,24 +1,30 @@
 {
   "files": {
     "main.css": "/REACTPortfolio/static/css/main.afe206d6.chunk.css",
-    "main.js": "/REACTPortfolio/static/js/main.885a937b.chunk.js",
-    "main.js.map": "/REACTPortfolio/static/js/main.885a937b.chunk.js.map",
+    "main.js": "/REACTPortfolio/static/js/main.a587fab0.chunk.js",
+    "main.js.map": "/REACTPortfolio/static/js/main.a587fab0.chunk.js.map",
     "runtime-main.js": "/REACTPortfolio/static/js/runtime-main.16b62946.js",
     "runtime-main.js.map": "/REACTPortfolio/static/js/runtime-main.16b62946.js.map",
-    "static/js/2.b1233707.chunk.js": "/REACTPortfolio/static/js/2.b1233707.chunk.js",
-    "static/js/2.b1233707.chunk.js.map": "/REACTPortfolio/static/js/2.b1233707.chunk.js.map",
+    "static/js/2.c4a0f275.chunk.js": "/REACTPortfolio/static/js/2.c4a0f275.chunk.js",
+    "static/js/2.c4a0f275.chunk.js.map": "/REACTPortfolio/static/js/2.c4a0f275.chunk.js.map",
     "index.html": "/REACTPortfolio/index.html",
-    "precache-manifest.8d0b9e7d9b78ab1cf905b2ebf73ac640.js": "/REACTPortfolio/precache-manifest.8d0b9e7d9b78ab1cf905b2ebf73ac640.js",
+    "precache-manifest.efd8f56124ee9411adff1615bf25ef7c.js": "/REACTPortfolio/precache-manifest.efd8f56124ee9411adff1615bf25ef7c.js",
     "service-worker.js": "/REACTPortfolio/service-worker.js",
     "static/css/main.afe206d6.chunk.css.map": "/REACTPortfolio/static/css/main.afe206d6.chunk.css.map",
-    "static/js/2.b1233707.chunk.js.LICENSE.txt": "/REACTPortfolio/static/js/2.b1233707.chunk.js.LICENSE.txt",
+    "static/js/2.c4a0f275.chunk.js.LICENSE.txt": "/REACTPortfolio/static/js/2.c4a0f275.chunk.js.LICENSE.txt",
+    "static/media/BudgetTracker.png": "/REACTPortfolio/static/media/BudgetTracker.e2cbc3fb.png",
+    "static/media/DayPlanner.png": "/REACTPortfolio/static/media/DayPlanner.159548be.png",
+    "static/media/FitnessTracker.png": "/REACTPortfolio/static/media/FitnessTracker.0308d90d.png",
+    "static/media/LyricMe.png": "/REACTPortfolio/static/media/LyricMe.2737054e.png",
+    "static/media/Stock-ErApp.png": "/REACTPortfolio/static/media/Stock-ErApp.f7d84821.png",
     "static/media/App.css": "/REACTPortfolio/static/media/background-image.ec90ab1c.png",
+    "static/media/beGreen.png": "/REACTPortfolio/static/media/beGreen.213ccfce.png",
     "static/media/me.png.jpg": "/REACTPortfolio/static/media/me.png.99f64c15.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.16b62946.js",
-    "static/js/2.b1233707.chunk.js",
+    "static/js/2.c4a0f275.chunk.js",
     "static/css/main.afe206d6.chunk.css",
-    "static/js/main.885a937b.chunk.js"
+    "static/js/main.a587fab0.chunk.js"
   ]
 }
